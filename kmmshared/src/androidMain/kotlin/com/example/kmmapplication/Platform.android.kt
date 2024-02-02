@@ -17,7 +17,7 @@ actual class Platform() {
 
     actual fun logSystemInfo() {
         Log.d(
-            "Daily Pulse",
+            "Daily_Pulse",
             "($osName, $osVersion, $deviceModel, $density)"
         )
     }
